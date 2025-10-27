@@ -1,4 +1,16 @@
-## Hi there 👋
+# My Profile
+Hello! I am a web developer.  
+I like building cool UI projects.
+
+## Skills
+- HTML
+- CSS
+- C++
+- Python
+- JavaScript
+
+This is a normal line with no heading.
+
 
 <!--
 **Aditya-dev19/Aditya-dev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
