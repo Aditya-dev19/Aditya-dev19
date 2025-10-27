@@ -9,7 +9,7 @@ I like building cool UI projects.
 - Python
 - JavaScript
 
-This is a normal line with no heading.
+
 
 
 <!--
