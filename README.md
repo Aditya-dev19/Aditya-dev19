@@ -1,13 +1,18 @@
 # My Profile
-Hello! I am a web developer.  
-I like building cool UI projects.
+Hi! I am Aditya Tripathi 
+CSE Student | Web Developer | Open-Source Learner 
 
 ## Skills
 - HTML
 - CSS
-- C++
-- Python
 - JavaScript
+- PHP 
+- C++
+
+## Working On 
+- Strengthening my development and open source skills
+- Improving my DSA & Problem - solving skills with C++
+- Looking for software development internships and entry level opportunities 
 
 
 
