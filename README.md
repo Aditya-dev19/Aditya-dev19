@@ -36,6 +36,9 @@ I am a passionate Computer Science Engineering student currently diving deep int
 #### [cryptodesk](https://github.com/Aditya-dev19/cryptodesk) 🟡 JavaScript
 > A modern, fully responsive cryptocurrency portfolio dashboard built with **React, Vite, and Chakra UI**. Track portfolio value, monitor wallet balances, view transaction history, and get support.
 
+
+#### [chat-app](https://github.com/Aditya-dev19/chat-app) 🟡 JavaScript
+> A fully functional, full-stack real-time chat application. Users can register, log in securely, and chat with others in real-time across multiple rooms. Built entirely with Vanilla JavaScript, Node.js, Express, Socket.io, and MongoDB.
 ---
 
 ### 💼 Experience & Achievements
